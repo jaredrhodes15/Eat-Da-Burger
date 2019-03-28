@@ -10,7 +10,7 @@ function printQuestionMarks(number) {
 }
 
 function objToSql(object) {
-    // column1=value, column2=value2,...
+    // column1=value, colun2=value2,...
     var arr = [];
 
     for (var key in object) {
